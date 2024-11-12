@@ -6,10 +6,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jawoon1120/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/jawoon1120/Algorithm/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jawoon1120/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/jawoon1120/Algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jawoon1120/Algorithm/tree/master/0125-valid-palindrome) |
 | [0837-most-common-word](https://github.com/jawoon1120/Algorithm/tree/master/0837-most-common-word) |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/jawoon1120/Algorithm/tree/master/0837-most-common-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jawoon1120/Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

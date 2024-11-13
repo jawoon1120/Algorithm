@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jawoon1120/Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jawoon1120/Algorithm/tree/master/0049-group-anagrams) |
 | [0837-most-common-word](https://github.com/jawoon1120/Algorithm/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/jawoon1120/Algorithm/tree/master/0974-reorder-data-in-log-files) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jawoon1120/Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/jawoon1120/Algorithm/tree/master/0049-group-anagrams) |
 | [0837-most-common-word](https://github.com/jawoon1120/Algorithm/tree/master/0837-most-common-word) |
 ## Counting
